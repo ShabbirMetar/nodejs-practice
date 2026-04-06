@@ -1,0 +1,10 @@
+new request from url /api/users/1000 at 1775493062296
+new request from url /favicon.ico at 1775493062334
+new request from url / at 1775493081344
+new request from url /favicon.ico at 1775493081377
+new request from url /about at 1775493111294
+new request from url /favicon.ico at 1775493111334
+new request from url /about at 1775493119472
+new request from url /favicon.ico at 1775493119504
+new request from url /about at 1775493120267
+new request from url /favicon.ico at 1775493120309
